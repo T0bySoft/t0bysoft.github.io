@@ -1,0 +1,18 @@
+Package: com.t0bysoft.circleoldmask
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Themes
+Maintainer: T0bySoft
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: ./debs/com.t0bysoft.circleoldmask_1.0.0_iphoneos-arm.deb
+Size: 60324
+MD5sum: e48946f98e12461be59c6454cbee26d6
+SHA1: 27f993e6a3c72476d803981003b93f795b0aa854
+SHA256: 6578558a2da52b29f9dc74cd9057a30462cb51e3d3571e241dc46f01f0dce1fa
+SHA512: d2082cc42467d054b723664901bbe9e6ac60ca00cdc934ce00fcac947f0a47e73d05e419e8d95e43ab2c6f17b5e9c7eada8c9aa80ba2395693ee23f506143048
+Homepage: https://t0bysoft.github.io
+Description: Circle and old mask for your all icons
+Name: CircleOldMask
+Author: T0bySoft
+Depiction: https://t0bysoft.github.io/apt/depiction/CircleOldMask.html
+SileoDepiction: https://t0bysoft.github.io/apt/depiction/CircleOldMask.html
