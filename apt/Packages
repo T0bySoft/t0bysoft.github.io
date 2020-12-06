@@ -16,22 +16,3 @@ Name: CircleOldMask
 Author: T0bySoft
 Depiction: https://t0bysoft.github.io/apt/depiction/CircleOldMask.html
 SileoDepiction: https://t0bysoft.github.io/apt/depiction/CircleOldMask.html
-
-Package: com.t0bysoft.IconRepo
-Architecture: iphoneos-arm
-Version: 1.0.0
-Section: T0bySoft
-Maintainer: T0bySoft
-Depends: com.anemonetheming.anemone | com.spark.snowboard
-Filename: ./debs/com.t0bysoft.IconRepo_1.0.0_iphoneos-arm.deb
-Size: 322
-MD5sum: 3159774af06bd7f034352c4f195f1068
-SHA1: da9c4afcfec4b8a7f7aeb2e996ae65204fa5605d
-SHA256: 21d285e10a16f1fe8ce3dd565ad2f7dcfca3bbc44e7bf33de715fb57e011ae78
-SHA512: 123a1e59e8cf05a23e28ed9806ca2f2907696bf690de6b1c089c6f78287281ab7d93fab0a988b1ea7e5e9a81794f8d1ea7ab6db0822d3af8e9122e02911d4b7f
-Homepage: https://t0bysoft.github.io
-Description: T0bySoft Repo Icons
-Name: T0bySoft Repo Icons
-Author: T0bySoft
-Depiction: https://t0bysoft.github.io/apt/depiction/T0bySoftRepoIcons.html
-SileoDepiction: https://t0bysoft.github.io/apt/depiction/T0bySoftRepoIcons.html
